@@ -1,0 +1,115 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: rgb(61, 63, 73);
+}
+.box{
+	width: 50%;
+	margin: 0px auto;
+}
+.box h1{
+	font-family: cursive;
+	text-align: center;
+	color: gold;
+	font-size: 50px;
+	padding-bottom: 10px;
+}
+.box h3{
+	letter-spacing: 2px;
+	font-family: Tahoma;
+	text-align: center;
+	color: #F5B1D7;
+}
+hr{
+	margin: 20px 0px;
+}
+.part{
+	background-color:#053E4D;
+	width: 33.33%;
+	padding: 30px 0px;
+	float: left;
+
+
+}
+.part img{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	padding: 8px;
+	margin: auto;
+	display: block;
+	box-shadow: 0px 0px 15px gold;
+}
+.part h2{
+	padding-top: 15px;
+	text-align: center;
+	color: #fff;
+	font-family: cursive;
+	font-size: 30px;
+}
+.part p{
+	padding-top: 15px;
+	text-align: justify;
+	width: 70%;
+	margin: auto;
+	font-family: tahoma;
+	font-size: 14px;
+	color: gold;
+}
+
+.part1{
+	background-color:#053E4D;
+	width: 33.33%;
+	padding: 30px 0px;
+	float: left;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+
+
+}
+.part1 img{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	padding: 8px;
+	margin: auto;
+	display: block;
+	box-shadow: 0px 0px 15px gold;
+}
+.part1 h2{
+	padding-top: 15px;
+	text-align: center;
+	color: #fff;
+	font-family: cursive;
+	font-size: 30px;
+}
+.part1 p{
+	padding-top: 15px;
+	text-align: justify;
+	width: 70%;
+	margin: auto;
+	font-family: tahoma;
+	font-size: 14px;
+	color: gold;
+}
+.copy{
+	margin-top: 50px;
+	float: left;
+}
+.copy p{
+	color: white;
+	font-family: cursive;
+	top: 20px;
+	left: 20px;
+	bottom: 20px;
+	right: 20px;
+	margin: auto;
+}
+.copy p span:nth-child(1){
+	color: gold;
+}
